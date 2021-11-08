@@ -22,3 +22,10 @@ In conclusion:
 <br>(1) The difference between allstars and others is not very noticeable in their raw stats.
 <br>(2) Some statistics don't even differ by 1 unit, like Total Rebounds or Assists. Points differ by only 1.3 units.
 <br>(3) However, when I plotted the percent differences, the difference of 10-20% across most stats was noticeable.
+
+PostScript:
+After reviewing this project, I noticed some errors. For example:
+<br> (a) Bobby Jones is in the allstar list, because there was an allstar with the same name, and
+<br> (b) Patrick Ewing Jr. is in the list, because he went to the same school as his father.
+
+I'll visit these another time, as part of a more robust data validation process, using name + draft year as a unique identifier.
