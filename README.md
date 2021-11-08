@@ -1,6 +1,6 @@
 # nba-basktball
 
-This is a full cycle data analysis project, in which I compare the NCAA statistics of players drafted between 2000-2010, for those did make allstar teams versus those who did not.
+This is a project in which I compare the NCAA statistics, of players drafted between 2000-2010, of those did make allstar teams versus those who did not.
 
 <br> This is a full-cycle data analysis project, including
 
