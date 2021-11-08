@@ -4,7 +4,7 @@ This is a project in which I compare the NCAA statistics, of players drafted bet
 
 The college stats for those who did and did not make allstar teams, is in Yes-All-Star.csv and Non-All-Star.csv, respectively.
 
-<br> This is a full-cycle data analysis project, including
+This is a full-cycle data analysis project, including
 
 <br> (1) data extraction, off of basketball-reference.com and sports-reference.com,
 <br> (2) data validation, to make sure I was getting the right player's statistics,
