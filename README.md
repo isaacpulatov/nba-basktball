@@ -8,3 +8,9 @@ This is a project in which I compare the NCAA statistics, of players drafted bet
 <br> (2) data validation, to make sure I was getting the right player's statistics,
 <br> (3) data cleaning, especially when cleaning names to search for player data, and
 <br> (4) data visualization, to compare the college stats for both groups of players.
+
+![image](https://user-images.githubusercontent.com/74286542/140826540-04b503bb-1ddf-42e3-9369-a1de3bf3e9d5.png)
+![image](https://user-images.githubusercontent.com/74286542/140826565-87df09f1-caa7-4267-a99a-bfd80939ea7d.png)
+![image](https://user-images.githubusercontent.com/74286542/140826594-c13b8c8c-26fe-4bcc-976e-c469cd7c64ec.png)
+![image](https://user-images.githubusercontent.com/74286542/140826606-1ce82657-e37f-47e6-a1d2-22595399338f.png)
+![image](https://user-images.githubusercontent.com/74286542/140826615-97ae3dbf-5f04-4d27-be47-5e00c82ab1ba.png)
